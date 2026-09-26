@@ -1,3 +1,5 @@
+> This mod has moved to https://github.com/ben-hough/lc-mods/tree/main/NoMineshaft. This repo is archived and read-only; full history was preserved there.
+
 # NoMineshaft
 
 Lethal Company BepInEx mod that removes **Mineshaft** interiors from dungeon rotation.
